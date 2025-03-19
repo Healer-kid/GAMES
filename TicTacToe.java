@@ -1,4 +1,4 @@
-//i need a matrix to store the value of x and o
+ //i need a matrix to store the value of x and o
 //i need to print the matrix
 //check diagnol, check tie, check overwrite
 
